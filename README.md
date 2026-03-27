@@ -31,6 +31,6 @@ procurement spend across categories and time periods?
 ---
 
 ## Contact
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: https://www.linkedin.com/in/sdatta96/
 - Location: Winnipeg, Canada (open to relocation — Australia, UK, major Canadian cities)
 - Certification in progress: CSCP (APICS)
